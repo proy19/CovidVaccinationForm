@@ -2,8 +2,8 @@
 A health care registration form for a Vaccination program using C Programming Language (Class Project).
 
 Features:
-- collect patient data and store them in a c structure
-- using various functions/method to calculate patient's age and generate a unique registration code
+- Collect patient data and store them in a c structure
+- Using various functions/method to calculate patient's age and generate a unique registration code
 - Run on a Unix Terminal
 
 Live Demo:
