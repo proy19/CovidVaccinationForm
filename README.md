@@ -1,5 +1,5 @@
 # CovidVaccinationForm
-A health care registration form for a Vaccination program using C Programming Language (Class Project).
+A health care registration form for a Covid Vaccination program using C Programming Language (Class Project).
 
 Features:
 - Collect patient data and store them in a c structure
