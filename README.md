@@ -8,5 +8,5 @@ Features:
 
 Live Demo:
 
-![Aug-04-2021 16-57-47](https://user-images.githubusercontent.com/57018537/128254067-182b3c38-2627-4364-ad1b-478c6c95f517.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/57018537/128261002-7d5fa247-ae61-4138-92b8-1ba2b1ebe3ac.gif)
 
